@@ -1,0 +1,492 @@
+[
+    {
+        "name": "ChatGPT",
+        "description": "A powerful language model by OpenAI.",
+        "link": "https://chat.openai.com/",
+        "image": "chatgpt.png",
+        "category": ["Chatbot", "Text"]
+    },
+    {
+        "name": "DALL-E",
+        "description": "An AI system that creates realistic images from a description in natural language.",
+        "link": "https://www.openai.com/dall-e-2",
+        "image": "dalle.png",
+        "category": ["Image"]
+    },
+    {
+        "name": "MidJourney",
+        "description": "An AI tool that creates artwork from textual descriptions.",
+        "link": "https://www.midjourney.com/",
+        "image": "midjourney.png",
+        "category": ["Image", "Design"]
+    },
+    {
+        "name": "Grammarly",
+        "description": "An AI-powered writing assistant that helps improve grammar, spelling, and style.",
+        "link": "https://www.grammarly.com/",
+        "image": "grammarly.png",
+        "category": ["Text", "Productivity"]
+    },
+    {
+        "name": "Hootsuite",
+        "description": "A social media management tool that uses AI to optimize posts and engagement.",
+        "link": "https://www.hootsuite.com/",
+        "image": "hootsuite.png",
+        "category": ["Marketing", "Productivity"]
+    },
+    {
+        "name": "Popai",
+        "description": "A powerful AI tool that boosts productivity! Besides instant answers, explore search engine integration, PDF reading, Powerpoint generation and more!",
+        "link": "https://www.popai.pro/",
+        "image": "popai.png",
+        "category": ["Chatbot", "Productivity"]
+    },
+    {
+        "name": "Chatbase",
+        "description": "Build a custom GPT, embed it on your website and let it handle customer support, lead generation, engage with your users, and more.",
+        "link": "https://www.chatbase.co/",
+        "image": "chatbase.png",
+        "category": ["Chatbot", "Productivity"]
+    },
+    {
+        "name": "Taskade",
+        "description": "Taskade supercharges your productivity with AI! Build an AI Agent Workforce that writes, researches, and manages tasks, turning insights into action.",
+        "link": "https://www.taskade.com/",
+        "image": "taskade.png",
+        "category": ["Chatbot", "Productivity"]
+    },
+    {
+        "name": "Kickresume",
+        "description": "Create a beautiful resume quickly with the help of artificial intelligence and our customizable templates.",
+        "link": "https://www.kickresume.com/",
+        "image": "kickresume.png",
+        "category": ["Resume", "Design"]
+    },
+    {
+        "name": "Kuasar Video",
+        "description": "Analyze your competitors' videos on Instagram, Tiktok, Youtube with video artificial intelligence.",
+        "link": "https://kuasarvideo.com/",
+        "image": "kuasarvideo.png",
+        "category": ["Analytics", "Video"]
+    },
+    {
+        "name": "Photo Editor",
+        "description": "Powerful AI toolset for all your creative photo and design editing needs. Supercharge your creativity and let your imagination run wild.",
+        "link": "https://photoeditor.ai/",
+        "image": "photoeditor.png",
+        "category": ["Image", "Design"]
+    },
+    {
+        "name": "Framer",
+        "description": "An advanced design tool that enhances creativity! Beyond interactive prototypes, explore seamless animations, real-time collaboration, code components, and AI-powered design suggestions!",
+        "link": "https://www.framer.com/",
+        "image": "framer.png",
+        "category": ["Website", "Development"]
+    },
+    {
+        "name": "Simplified",
+        "description": "Simplified is the time saving, all in one app that your modern marketing team can use for collaboration. Millions of free images, videos, and audio clips.",
+        "link": "https://simplified.com/",
+        "image": "simplified.png",
+        "category": ["Video", "Automation"]
+    },
+    {
+        "name": "Lumalabs",
+        "description": "Simplified is the time saving, all in one app that your modern marketing team can use for collaboration. Millions of free images, videos, and audio clips.",
+        "link": "https://lumalabs.ai/dream-machine",
+        "image": "lumalabs.png",
+        "category": ["Video", "Automation"]
+    },
+    {
+        "name": "Mindgrasp",
+        "description": "Mindgrasp instantly creates accurate notes, summaries, flashcards, quizzes, and answers questions from any Document, PDF, YouTube Video, Zoom Meeting, Webinar Recording, Podcast and much more!",
+        "link": "https://mindgrasp.ai/",
+        "image": "mindgrasp.png",
+        "category": ["Text", "Audio"]
+    },
+    {
+        "name": "Podcastle",
+        "description": "Podcastle's AI-powered platform simplifies audio & video creation, letting you focus on bringing your ideas to life",
+        "link": "https://podcastle.ai/",
+        "image": "podcastle.png",
+        "category": ["Audio", "Video"]
+    },
+    {
+        "name": "Video to Blog",
+        "description": "Convert YouTube videos into blog articles! Create high quality, SEO optimized content in seconds with AI",
+        "link": "https://www.videotoblog.ai/",
+        "image": "videotoblog.png",
+        "category": ["Video", "Text"]
+    },
+    {
+        "name": "Leonardo.ai",
+        "description": "Transform your projects with our AI image generator. Generate high-quality, AI generated images with unparalleled speed and style to elevate your creative vision",
+        "link": "https://app.leonardo.ai/",
+        "image": "leonardo.png",
+        "category": ["Image", "Video"]
+    },
+    {
+        "name": "Gamma",
+        "description": "A new medium for presenting ideas. Powered by AI. Beautiful presentations, documents, and websites. No design or coding skills required.",
+        "link": "https://gamma.app/",
+        "image": "gamma.png",
+        "category": ["Marketing", "Design"]
+    },
+    {
+        "name": "Kittl",
+        "description": "Kittl is an intuitive and easy-to-use design platform which helps you to create stunning designs that impress everyone. Easily learn new design techniques and improve yourself to become a better creator.",
+        "link": "https://www.kittl.com/",
+        "image": "kittl.png",
+        "category": ["Image", "Design"]
+    },
+    {
+        "name": "Freepik",
+        "description": "Create great designs, faster High-quality photos, videos, vectors, PSD, AI images, icons... to go from ideas to outstanding designs",
+        "link": "https://www.freepik.com/",
+        "image": "freepik.png",
+        "category": ["Image", "Design"]
+    },
+    {
+        "name": "Bubble",
+        "description": "Quickly design, develop, test, and launch production-grade applications with our AI-powered no-code development platform. Whether it’s an enterprise-level web app or the first iteration of a startup, you can build it on Bubble.",
+        "link": "https://bubble.io/",
+        "image": "bubble.png",
+        "category": ["Website", "Development"]
+    },
+    {
+        "name": "GptExcel",
+        "description": "Generate Spreadsheet Formulas with AI. An ideal solution for individuals and businesses looking to streamline their spreadsheet processes.",
+        "link": "https://gptexcel.uk/",
+        "image": "gptexcel.png",
+        "category": ["Maths", "Productivity"]
+    },
+    {
+        "name": "Hugging Face",
+        "description": "The AI community building the future. The platform where the machine learning community collaborates on models, datasets, and applications.",
+        "link": "https://huggingface.co/",
+        "image": "huggingface.png",
+        "category": ["Image", "Design"]
+    },
+    {
+        "name": "Hireflow",
+        "description": "Hireflow is the modern way to source + engage candidates. AI Sourcing, Email Follow Ups, Talent CRM, Reporting, LinkedIn Extension, Email Finding and more.",
+        "link": "https://www.hireflow.com/",
+        "image": "hireflow.png",
+        "category": ["Resume", "Design"]
+    },
+    {
+        "name": "Claid.ai",
+        "description": "Generate AI product photos, remove background, enhance, edit, and more.",
+        "link": "https://claid.ai/",
+        "image": "claidai.png",
+        "category": ["Image", "Marketing"]
+    },
+    {
+        "name": "Mocky.ai",
+        "description": "Revolutionizing E-commerce with AI Fashion Models and Products Generate all your product images directly in your browser tab!",
+        "link": "https://mocky.ai/",
+        "image": "mockyai.png",
+        "category": ["Image", "Marketing"]
+    },
+    {
+        "name": "Claud.ai",
+        "description": "Claude is a next generation AI assistant built for work and trained to be safe, accurate, and secure.",
+        "link": "https://claude.ai/",
+        "image": "claudai.png",
+        "category": ["Chatbot", "Text"]
+    },
+    {
+        "name": "Jasper.ai",
+        "description": "Transform your creative capabilities with Jasper. Use AI to better connect with your customers and secure your competitive advantage.",
+        "link": "https://www.jasper.ai/",
+        "image": "jasperai.png",
+        "category": ["Marketing", "Automation"]
+    },
+    {
+        "name": "Heygen",
+        "description": "HeyGen is an innovative video platform that harnesses the power of generative AI to streamline your video creation process. Unleash your creativity with HeyGen - the future of video production.",
+        "link": "https://www.heygen.com/",
+        "image": "heygen.png",
+        "category": ["Video", "Marketing"]
+    },
+    {
+        "name": "Syllaby",
+        "description": "Discover Trending Content Ideas, Write Viral Video Scripts, Create, Edit, & Publish Videos To Your Social Media.",
+        "link": "https://syllaby.io/",
+        "image": "syllaby.png",
+        "category": ["Video", "Marketing"]
+    },
+    {
+        "name": "Gemini",
+        "description": "Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.",
+        "link": "https://gemini.google.com/?hl=en",
+        "image": "gemini.png",
+        "category": ["Chatbot", "Text"]
+    },
+    {
+        "name": "Monica",
+        "description": "All-in-One AI Assistant Personalized, Fast & Free Monica uses the most advanced AI models (GPT-4o, Claude 3, etc.) to help you Chat, Search, Write, Translate and much more.",
+        "link": "https://monica.im/",
+        "image": "monica.png",
+        "category": ["Chatbot", "Text"]
+    },
+    {
+        "name": "Copilot",
+        "description": "Get AI-based suggestions in real time. GitHub Copilot suggests code completions as developers type and turns natural language prompts into coding suggestions, etc...",
+        "link": "https://github.com/features/copilot",
+        "image": "copilot.png",
+        "category": ["Code", "Development"]
+    },
+    {
+        "name": "Text FX",
+        "description": "TextFX is an AI experiment that uses Google's PaLM 2 large language model. These 10 tools are designed to expand the writing process by generating creative possibilities with text and language.",
+        "link": "https://textfx.withgoogle.com/",
+        "image": "textfx.png",
+        "category": ["Productivity", "Text"]
+    },
+    {
+        "name": "Coze",
+        "description": "Coze is a next-generation AI application and chatbot developing platform for everyone. Regardless of your programming experience, Coze enables you to effortlessly create various chatbots and deploy them across different social platforms and messaging apps.",
+        "link": "https://www.coze.com/",
+        "image": "coze.png",
+        "category": ["Chatbot", "Development"]
+    },
+    {
+        "name": "Getmind",
+        "description": "GitMind is a free AI-powered mind mapping & brainstorming app. Create and collaborate on mind maps online in real-time. The easiest way to make project plan, take notes, flowcharts, org charts, UML diagrams and more.",
+        "link": "https://gitmind.com/",
+        "image": "getmind.png",
+        "category": ["Productivity", "Design"]
+    },
+    {
+        "name": "Alli AI",
+        "description": "Scale SEO effortlessly with Alli AI's automated SEO software. Optimize, automate, and deploy across any CMS—no coding required.",
+        "link": "https://www.alliai.com/",
+        "image": "alliai.png",
+        "category": ["SEO", "Automation"]
+    },
+    {
+        "name": "Respell",
+        "description": "Respell combines no-code workflows, an agent-driven chat experience, and suggestions so you can make magic with AI.",
+        "link": "https://www.respell.ai/",
+        "image": "respell.png",
+        "category": ["Marketing", "Automation"]
+    },
+    {
+        "name": "QuillBot",
+        "description": "Write effortlessly and efficiently with QuillBot's suite of AI tools. Paraphrase, check grammar, analyze tone, improve fluency, and more. Start doing your best work.",
+        "link": "https://quillbot.com/",
+        "image": "quillbot.png",
+        "category": ["Text", "Productivity"]
+    },
+    {
+        "name": "WordStream",
+        "description": "WordStream makes online advertising easy! Our blog, free tools and learning resources can help you master digital advertising and grow your business.",
+        "link": "https://www.wordstream.com/",
+        "image": "wordstream.png",
+        "category": ["Marketing", "Analytics"]
+    },
+    {
+        "name": "Clearscope",
+        "description": "Clearscope is a SEO platform that empowers marketing teams to drive more traffic through streamlining SEO and content optimization, keyword identification, workflow management, and content monitoring.",
+        "link": "https://www.clearscope.io/",
+        "image": "clearscope.png",
+        "category": ["Marketing", "SEO"]
+    },
+    {
+        "name": "Pebblely",
+        "description": "Create AI product photos that help you sell more. No Photoshop skills required.",
+        "link": "https://pebblely.com/",
+        "image": "pebblely.png",
+        "category": ["Image", "Marketing"]
+    },
+    {
+        "name": "Dialogflow",
+        "description": "Create state-of-the-art conversational agents with Google AI. Available in two editions: Dialogflow CX (advanced), Dialogflow ES (standard). Includes built-in integrations for gen AI features in Vertex AI Agent Builder.",
+        "link": "https://cloud.google.com/dialogflow?",
+        "image": "dialogflow.png",
+        "category": ["Chatbot", "Development"]
+    },
+    {
+        "name": "Chatfuel",
+        "description": "Maximize your revenue with a leading marketing & sales platform for eCommerce: create AI chatbots for WhatsApp, Instagram, Facebook, and websites.",
+        "link": "https://chatfuel.com/",
+        "image": "chatfuel.png",
+        "category": ["Chatbot", "Development"]
+    },
+    {
+        "name": "10 Web",
+        "description": "Create a website using AI Website Builder, host it on 10Web Hosting, and optimize it with PageSpeed Booster. ... Build or recreate any website with AI and get AI generated content and images in minutes. Customize it with 10Web editor based on Elementor.",
+        "link": "https://10web.io/",
+        "image": "dixweb.png",
+        "category": ["Website", "Development"]
+    },
+    {
+        "name": "Balloonary",
+        "description": "dvertise easy, grow your business. Build and launch online ads with the power of AI and win new customers.",
+        "link": "https://balloonary.com/",
+        "image": "baloonary.png",
+        "category": ["Marketing", "Ads"]
+    },
+    {
+        "name": "Replit",
+        "description": "Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast.",
+        "link": "https://replit.com/",
+        "image": "replit.png",
+        "category": ["Code", "Development"]
+    },
+    {
+        "name": "Safurai",
+        "description": "The AI Code Assistant to supercharge developers productivity. Safurai supports all programming languages, completely free for Visual Studio Code.",
+        "link": "https://www.safurai.com/",
+        "image": "safurai.png",
+        "category": ["Code", "Development"]
+    },
+    {
+        "name": "Logoai",
+        "description": "Logo & Brand Identity Design. Let AI-powered logo maker generate your new logo and create a brand identity design you love!",
+        "link": "https://www.logoai.com/",
+        "image": "logoai.png",
+        "category": ["Logo", "Design"]
+    },
+    {
+        "name": "Brandmark",
+        "description": "Create a unique, professional logo for your business! Kickstart your brand with business card designs, social media graphics, app icons, letter heads and more",
+        "link": "https://brandmark.io/",
+        "image": "brandmark.png",
+        "category": ["Logo", "Design"]
+    },
+    {
+        "name": "Ideogram",
+        "description": "Enhance every pixel with state-of-the-art detail and photorealism up to a stunning 2K resolution. Create professional-quality images with remarkable clarity and sharpness, even in close-ups",
+        "link": "https://ideogram.ai/t/explore",
+        "image": "ideogram.png",
+        "category": ["Image", "Design"]
+    },
+    {
+        "name": "Phind",
+        "description": "Phind is your ultimate search assistant, revolutionizing how you find and analyze online information. With cutting-edge AI, Phind delivers precise, relevant results instantly, saving you time and effort.",
+        "link": "https://www.phind.com/search?home=true",
+        "image": "phind.png",
+        "category": ["Code", "Analytics"]
+    },
+    {
+        "name": "Semrush",
+        "description": "Get measurable results from online marketing! Do SEO, content marketing, competitor research, PPC and social media marketing from just one platform.",
+        "link": "https://www.semrush.com/?l=en",
+        "image": "semrush.png",
+        "category": ["SEO", "Marketing"]
+    },
+    {
+        "name": "Vidiq",
+        "description": "Boost your views on YouTube. The best tools to find new video ideas and optimize your videos.",
+        "link": "https://vidiq.com/",
+        "image": "vidiq.png",
+        "category": ["Video", "Marketing"]
+    },
+    {
+        "name": "TLDV",
+        "description": "From meeting notes to multi-meeting AI insights Meeting summaries were just the beginning. Get insights from multiple meetings in seconds. tl;dv’s AI provides customizable insight reports from any meetings across your company, not just your own.",
+        "link": "https://tldv.io/",
+        "image": "tldv.png",
+        "category": ["Video", "Text"]
+    },
+    {
+        "name": "AdCopy",
+        "description": "Supercharge your ads! Boost your ad performance with Adcopy's AI ad platform for brands & agencies. Streamline split tests, copywriting, and optimization for AI ads.",
+        "link": "https://adcopy.ai/",
+        "image": "adcopy.png",
+        "category": ["Marketing", "Ads"]
+    },
+    {
+        "name": "Leap",
+        "description": "Automate Sales & Marketing workflows with AI. Augment your team with AI automation for content generation, lead enrichment, email outreach, and more.",
+        "link": "https://www.tryleap.ai/",
+        "image": "leap.png",
+        "category": ["Marketing", "Automation"]
+    },
+    {
+        "name": "Madgicx",
+        "description": "The SuperApp for Meta Advertisers. The Madgicx platform empowers Ecom brands and agencies to autonomously manage and optimize Meta ads to increase ad ROI incrementally.",
+        "link": "https://madgicx.com/",
+        "image": "madgicx.png",
+        "category": ["Ads", "Automation"]
+    },
+    {
+        "name": "Plai",
+        "description": "Plai allows customers to have cheaper ad costs and higher Click-Through Rates than industry benchmarks by focusing on your relevance and ad quality.",
+        "link": "https://madgicx.com/",
+        "image": "plai.png",
+        "category": ["Ads", "Productivity"]
+    },
+    {
+        "name": "Adcreative",
+        "description": "AdCreative.ai empowers your advertising with AI. Generate conversion-focused ad creatives, utilize AI for product photoshoots, and access detailed competitor insights.",
+        "link": "https://www.adcreative.ai/",
+        "image": "adcreative.png",
+        "category": ["Ads", "Design"]
+    },
+    {
+        "name": "Imagica",
+        "description": "Build a no-code AI app in minutes. Transform ideas into stunning visuals, enhance images with precision, and unleash your creativity like never before. With Imagica.ai, bring your vision to life quickly and easily.",
+        "link": "https://www.imagica.ai/",
+        "image": "imagica.png",
+        "category": ["Website", "Design"]
+    },
+    {
+        "name": "Veed",
+        "description": "Create pro-level videos without pro-level skills. VEED makes video creation easier for everyone.",
+        "link": "https://www.veed.io/",
+        "image": "veed.png",
+        "category": ["Video"]
+    },
+    {
+        "name": "Descript",
+        "description": "If you can edit text, you can make videos. Descript is the AI-powered, fully featured, end-to-end video editor that you already know how to use.",
+        "link": "https://www.descript.com/",
+        "image": "descript.png",
+        "category": ["Video"]
+    },
+    {
+        "name": "Fliki",
+        "description": "Transform your ideas to videos effortlessly with the best AI Video Generator. User-friendly Text to Video editor, realistic voiceovers, dynamic AI clips, and more.",
+        "link": "https://fliki.ai/",
+        "image": "fliki.png",
+        "category": ["Video"]
+    },
+    {
+        "name": "Shuffll",
+        "description": "Shuffll is a cutting-edge video production platform that uses AI technology to streamline the creation process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would take using traditional methods.",
+        "link": "https://shuffll.com/",
+        "image": "shuffll.png",
+        "category": ["Video"]
+    },
+    {
+        "name": "Synthesys",
+        "description": "Creating professional AI content at scale has never been easier. From videos with avatars and voiceovers to images, Synthesys is the only AI content suite you’ll ever need.",
+        "link": "https://synthesys.io/",
+        "image": "synthesys.png",
+        "category": ["Video"]
+    },
+    {
+        "name": "Durable",
+        "description": "Generate a website in 30 seconds with the world's fastest AI website builder. Then, use powerful AI marketing, invoicing, and CRM tools to grow your business. All with one app.",
+        "link": "https://durable.co/",
+        "image": "durable.png",
+        "category": ["Website", "Design"]
+    },
+    {
+        "name": "11 Labs",
+        "description": "Create premium AI voices for free in any style and language with the most powerful online AI text to speech (TTS) software ever. Generate text to speech voiceovers in minutes with our character AI voice generator.",
+        "link": "https://elevenlabs.io/",
+        "image": "elevenlabs.png",
+        "category": ["Text", "Design"]
+    },
+    {
+        "name": "Sintra AI",
+        "description": "Transform your business with Sintra AI Employee Assistants. Experience the next era of work efficiency with intelligent solutions that are smarter than a thousand experts. Discover how AI Helpers can streamline your workflow and boost productivity",
+        "link": "https://sintra.ai/",
+        "image": "sintraai.png",
+        "category": ["Chatbot", "Productivity"]
+    }
+]
