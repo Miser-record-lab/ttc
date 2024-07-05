@@ -488,5 +488,75 @@
         "link": "https://sintra.ai/",
         "image": "sintraai.png",
         "category": ["Chatbot", "Productivity"]
+    },
+    {
+        "name": "SummarAIze",
+        "description": "10X podcast and video content in 10 mins. SummarAIze repurposes your content from audio and video into engaging, shareable social posts, email content, summaries, quotes, and more!",
+        "link": "https://www.summaraize.com/",
+        "image": "summaraize.png",
+        "category": ["Text", "Audio"]
+    },
+    {
+        "name": "OpusClip",
+        "description": "1 long video, 10 viral clips. Create 10x faster. OpusClip is a generative AI video tool that repurposes long videos into shorts in one click. Powered by OpenAi",
+        "link": "https://www.opus.pro/",
+        "image": "opusclip.png",
+        "category": ["Video", "Productivity"]
+    },
+    {
+        "name": "VentureKit",
+        "description": "AI that writes a business plan for you. Make a winning business plan in minutes with the #1 business plan generator.",
+        "link": "https://www.venturekit.ai/",
+        "image": "venturekit.png",
+        "category": ["Analytics", "Productivity"]
+    },
+    {
+        "name": "Runway",
+        "description": "Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.Tools for human imagination. A new suite of creative tools designed to turn the ideas in your head into reality.",
+        "link": "https://runwayml.com/",
+        "image": "runway.png",
+        "category": ["Video", "Image"]
+    },
+    {
+        "name": "Kartiv",
+        "description": "Grow your eComm with photos and videos that drive sales. Boost sales with product photos and videos that showcase your products at their best.",
+        "link": "https://www.kartiv.com/",
+        "image": "kartiv.png",
+        "category": ["Video", "Image"]
+    },
+    {
+        "name": "SEO.AI",
+        "description": "The AI Writer that also identifies vital SEO gaps. Keyword research. Content generation. SEO optimization. All done by AI and integrated with seamless rank tracking.",
+        "link": "https://seo.ai/",
+        "image": "seoai.png",
+        "category": ["SEO", "Text"]
+    },
+    {
+        "name": "Seona",
+        "description": "Use Seona, an usestyle.ai tool to automatically boost your online discoverability and reach more customers. With just your URL, Seona automatically updates your site's content, headers, tags, and code to improve your site's search rankings.",
+        "link": "https://usestyle.ai/seona",
+        "image": "Seona.png",
+        "category": ["SEO", "Automation"]
+    },
+    {
+        "name": "Adwin",
+        "description": "Use Adwin, an usestyle.ai tool to Design and activate flawless Google ad campaigns without lifting a finger. Adwin analyzes your website, gaining valuable insights about your business to craft optimal ads, bringing you more customers than ever before.",
+        "link": "https://adwin.usestyle.ai/new",
+        "image": "adwin.png",
+        "category": ["Ads", "SEO"]
+    },
+    {
+        "name": "Namelix",
+        "description": "Business Name Generator generate a short, brandable business name using artificial intelligence. Decide whether you prioritize a shorter name, having a specific keyword or domain extension",
+        "link": "https://namelix.com/",
+        "image": "namelix.png",
+        "category": ["Text", "Design"]
+    },
+    {
+        "name": "Looka",
+        "description": "Looka combines your design preferences with AI to make beautiful logos you'll love. Once you have your logo, use the Brand Kit to access 300+ branded templates, create custom marketing assets, build a website, and launch your business!",
+        "link": "https://looka.com/",
+        "image": "looka.png",
+        "category": ["Image", "Design"]
     }
 ]
