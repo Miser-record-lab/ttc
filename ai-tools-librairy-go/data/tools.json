@@ -535,7 +535,7 @@
         "name": "Seona",
         "description": "Use Seona, an usestyle.ai tool to automatically boost your online discoverability and reach more customers. With just your URL, Seona automatically updates your site's content, headers, tags, and code to improve your site's search rankings.",
         "link": "https://usestyle.ai/seona",
-        "image": "Seona.png",
+        "image": "seona.png",
         "category": ["SEO", "Automation"]
     },
     {
